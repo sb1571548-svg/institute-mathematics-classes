@@ -1,0 +1,6 @@
+{
+  "name": "Maths Classes",
+  "description": "Premium mathematics learning platform for Class 1 to 8 students with modern dashboards, live simulation classes, progress reports, digital whiteboard, fee payment integration, and performance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
